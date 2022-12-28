@@ -33,3 +33,5 @@ You can click the Preview link to take a look at your changes.
     👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
 
     📚 Love reading books on personal development.
+    
+    [![GitHub Streak](https://streak-stats.demolab.com/?KorirMoze)](https://git.io/streak-stats)
