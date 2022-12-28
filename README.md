@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/moses-k-528947ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrHQx5wo0Tmqr3%2BkVr26A%2BA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrpaziresh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCdasqgPPibiU3GaEkF6vX2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nrpaziresh" height="30" width="40" /></a>
 </p>
-
+![KorirMoze's GitHub stats](https://github-readme-stats.vercel.app/api?username=KorirMoze&theme=dark&show_icons=true)
 <h3 align="left">Languages and Tools:</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KorirMoze)](https://github.com/KorirMoze/github-readme-stats)
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
